@@ -1,0 +1,12 @@
+C:\Users\nicol\source\repos\TpCsharp\TpCsharp\bin\Debug\TpCsharp.exe.config
+C:\Users\nicol\source\repos\TpCsharp\TpCsharp\bin\Debug\TpCsharp.exe
+C:\Users\nicol\source\repos\TpCsharp\TpCsharp\bin\Debug\TpCsharp.pdb
+C:\Users\nicol\source\repos\TpCsharp\TpCsharp\obj\Debug\TpCsharp.csprojAssemblyReference.cache
+C:\Users\nicol\source\repos\TpCsharp\TpCsharp\obj\Debug\TpCsharp.exe
+C:\Users\nicol\source\repos\TpCsharp\TpCsharp\obj\Debug\TpCsharp.pdb
+C:\Users\nicol\Source\Repos\TpClass\TpCsharp\bin\Debug\TpCsharp.exe.config
+C:\Users\nicol\Source\Repos\TpClass\TpCsharp\bin\Debug\TpCsharp.exe
+C:\Users\nicol\Source\Repos\TpClass\TpCsharp\bin\Debug\TpCsharp.pdb
+C:\Users\nicol\Source\Repos\TpClass\TpCsharp\obj\Debug\TpCsharp.csprojAssemblyReference.cache
+C:\Users\nicol\Source\Repos\TpClass\TpCsharp\obj\Debug\TpCsharp.exe
+C:\Users\nicol\Source\Repos\TpClass\TpCsharp\obj\Debug\TpCsharp.pdb
